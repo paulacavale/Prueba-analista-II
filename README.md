@@ -3,12 +3,12 @@ Este proyecto es una aplicación web interactiva para análisis y visualización
 
 ## Requisitos
 - Python 3.7 o superior
-- Librerías: `streamlit`, `pandas`, `numpy`, `matplotlib`, `seaborn`
+- Librerías: `streamlit`, `pandas`, `numpy`, `matplotlib`
 
 Puedes instalar las librerías necesarias con:
 
 ```
-pip install streamlit pandas numpy matplotlib seaborn
+pip install streamlit pandas numpy matplotlib 
 ```
 
 ## Archivos necesarios
